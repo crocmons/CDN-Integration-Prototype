@@ -1,4 +1,3 @@
-# CDN-Integration-Prototype
 # CDN Integration Prototype with Kong and Python
 
 ## Introduction
